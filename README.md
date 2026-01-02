@@ -10,24 +10,14 @@
 - 📫 Reach me at: **omer.yilmaz.gru@hotmail.com**
 - 👔 Connect with me on [LinkedIn](https://www.linkedin.com/in/omer-ylmz/)
 
----
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=omer-ylmz&show_icons=true&theme=dark&cache_seconds=1800)
 
-## 📊 GitHub Dashboard
+## 🔥 GitHub Streak
+![Streak](https://streak-stats.demolab.com?user=omer-ylmz&theme=dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omer-ylmz&amp;show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omer-ylmz" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer-ylmz&amp;layout=compact" />
-</p>
-
-
----
+## 🧠 Top Languages
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omer-ylmz&layout=compact&theme=dark)
 
 
 
@@ -56,6 +46,7 @@
 ---
 
 ⭐️ *Feel free to explore my repositories and connect with me!*
+
 
 
 
