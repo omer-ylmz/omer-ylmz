@@ -1,55 +1,64 @@
 # Hi 👋 I'm Ömer Yılmaz
 
-Backend & Mobile Developer  
-Java • Spring Boot • Flutter • Microservices
+🌱 **Software Developer | Backend & Mobile Enthusiast**
 
-- 🌱 Currently focused on **Backend & Mobile Development**
-- 🏗️ Experience with **Microservice Architecture**
+- 🚀 Currently working on **Backend & Mobile Development**
+- 🧠 Learning **Spring Boot, Microservices & Flutter**
 - 💻 Tech Stack:  
-  Java, Spring Boot, Python, Dart, Flutter, PostgreSQL, MSSQL, MongoDB, Redis, Firebase
-- 📫 Contact: **omer.yilmaz.gru@hotmail.com**
-- 👔 LinkedIn: [omer-ylmz](https://www.linkedin.com/in/omer-ylmz/)
+  **Java | Spring Boot | Python | Dart | Flutter | PostgreSQL | MSSQL | MongoDB | Redis | Firebase**
+- 🏗️ Experience with **Microservice Architecture**
+- 📫 Reach me at: **omer.yilmaz.gru@hotmail.com**
+- 👔 Connect with me on [LinkedIn](https://www.linkedin.com/in/omer-ylmz/)
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omer-ylmz&show_icons=true" alt="GitHub Stats"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=omer-ylmz&show_icons=true&theme=tokyonight&cache_seconds=86400"
+    alt="Ömer Yılmaz GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omer-ylmz" alt="GitHub Streak"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=omer-ylmz&theme=tokyonight&cache_seconds=86400"
+    alt="Ömer Yılmaz GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer-ylmz&layout=compact" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer-ylmz&layout=compact&theme=tokyonight&cache_seconds=86400"
+    alt="Ömer Yılmaz Top Languages"
+  />
 </p>
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Technologies & Tools
 
-**Backend**
-- Java
-- Spring Boot
-- Python
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Mobile**
-- Dart
-- Flutter
+### Mobile
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-**Databases**
-- PostgreSQL
-- MSSQL
-- MongoDB
-- Redis
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Other**
-- Firebase
-- Git
-- Docker (basic)
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
-⭐️ *Feel free to explore my repositories and connect with me.*
+⭐️ *Feel free to explore my repositories and connect with me!*
