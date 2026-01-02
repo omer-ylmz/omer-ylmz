@@ -14,17 +14,11 @@
 
 ## 📊 GitHub Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omer-ylmz&show_icons=true" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omer-ylmz&show_icons=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omer-ylmz" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omer-ylmz)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer-ylmz&layout=compact" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omer-ylmz&layout=compact)
 
 ---
 
@@ -55,5 +49,6 @@
 ---
 
 ⭐️ *Feel free to explore my repositories and connect with me!*
+
 
 
