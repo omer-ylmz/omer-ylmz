@@ -12,30 +12,22 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Dashboard
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=omer-ylmz&show_icons=true&theme=tokyonight&cache_seconds=86400"
-    alt="Ömer Yılmaz GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=omer-ylmz&show_icons=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=omer-ylmz&theme=tokyonight&cache_seconds=86400"
-    alt="Ömer Yılmaz GitHub Streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omer-ylmz" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer-ylmz&layout=compact&theme=tokyonight&cache_seconds=86400"
-    alt="Ömer Yılmaz Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer-ylmz&layout=compact" alt="Top Languages" />
 </p>
 
 ---
+
 
 ## 🛠️ Technologies & Tools
 
@@ -62,3 +54,4 @@
 ---
 
 ⭐️ *Feel free to explore my repositories and connect with me!*
+
