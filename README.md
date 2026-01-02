@@ -10,9 +10,15 @@
 
 ## Ömer Yılmaz's GitHub Stats
 
+---
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omer-ylmz&show_icons=true&theme=radical" alt="Ömer Yılmaz's GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=omer-ylmz&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+
+---
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omer-ylmz&theme=radical" alt="Ömer Ömer Yılmaz's GitHub Streak" />
@@ -36,6 +42,7 @@
 ![Redis](https://img.shields.io/badge/Redis-CC2927?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-blue?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
 
 
 
