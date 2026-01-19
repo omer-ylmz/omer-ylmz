@@ -1,48 +1,70 @@
-# omer-ylmz / README.md
-
-- Hello 👋, I'm Ömer Yılmaz
-- 🌱 I'm currently working on programming
-- 🌱 I'm currently learning Mobile Programming and Backend Development
-- 💻 My skills: Java/Spring Boot/Python/HTML/CSS/Dart/Flutter/PostgreSQL/MSSSQL/Firebase/MongoDB/Redis
-- 🔧 I worked on projects related to microservice architecture
-- 📫How to reach me: omer.yilmaz.gru@hotmail.com
-- 👔 Connect with me on [LinkedIn](https://www.linkedin.com/in/omer-ylmz/)
-
-## Ömer Yılmaz's GitHub Stats
-
----
-
-## 🏆 GitHub Trophies
+<h1 align="center">
+  Hi there 👋 I'm Ömer Yılmaz
+</h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omer-ylmz&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+%26+Microservices;Instructor+%7C+Mentor+%7C+Engineer" alt="Typing SVG" />
 </p>
 
 ---
 
+### 🌐 Connect with Me
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omer-ylmz&theme=radical" alt="Ömer Ömer Yılmaz's GitHub Streak" />
+  <a href="https://github.com/omer-ylmz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://medium.com/@omer-ylmz">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium" />
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 **Computer Engineer – Giresun University**
+- ☕ **Java & Spring Boot Backend Developer**
+- 🧩 Microservices, gRPC, Kafka, Security
+- 🚀 Instructor Mentor Scholar @ **T3 Foundation (Deneyap)**
+- 🏆 TÜBİTAK 2209-A Supported Graduation Project
+- ✈️ Teknofest & UAV Systems Enthusiast
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,docker,kafka,git,github,linux,flutter" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omer-ylmz&show_icons=true&theme=blue-green&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer-ylmz&layout=compact&theme=radical" alt="Ömer Yılmaz's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer-ylmz&layout=compact&theme=blue-green&hide_border=true" />
 </p>
 
-## Technologies & Tools
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PYTHON](https://img.shields.io/badge/python-FF6633?style=for-the-badge&logo=python&logoColor=blue)
-![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=flutter&logoColor=blue)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-00CCFF?style=for-the-badge&logo=firebase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-CC2927?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-blue?style=for-the-badge&logo=mongodb&logoColor=white)
-![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+### 🐍 Contribution Snake Animation
 
+<p align="center">
+  <img src="https://github.com/omer-ylmz/omer-ylmz/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
+---
 
+### ✨ Quote
 
+<p align="center">
+  <i>"Build systems that scale, teach knowledge that lasts."</i>
+</p>
